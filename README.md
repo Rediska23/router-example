@@ -1,7 +1,7 @@
 # router-example
 
  
-![]()
+![](https://github.com/Rediska23/router-example/blob/main/image.png?raw=true)
 
 ## Описание проекта
 Данный проект представляет собой простое приложение для создания заметок, их редактирования, сортировки и так далее. 
